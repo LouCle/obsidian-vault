@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "07fcb61306f95bd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "29a5b0d9eb181c9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "900c95118f45b414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Assorterede noter til reel anal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "265e766da75366d3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8f6330c3c449a4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Constructions of R.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "614382f35995cd71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theorems/Nested Interval Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4d74c6c7b64a655",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6af79caa3c6bd1f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "79dfc996f52f80c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae2e8cf971aac3a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4145bc81b91ffd0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25185a5b18d4e289",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5086555480957
+  },
+  "right": {
+    "id": "d3ba5e715477b134",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6c7a5c6b9c9ec63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e48c7899dc265a53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb4157d2fdbb00bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee8c2e9ad520bc67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5a971794c1fdbc3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b4d74c6c7b64a655",
+  "lastOpenFiles": [
+    "README.md",
+    "Concepts/Topological space.md",
+    "Concepts/Topology on R.md",
+    "Concepts/Metric space.md",
+    "Concepts/Limit.md",
+    "Concepts/Differentiability on R.md",
+    "Concepts/Counterexamples.md",
+    "Notes/Assorterede noter til reel anal.md",
+    "Notes/Theory of real analysis.md",
+    "Theorems/Derivative at Maximum is Zero.md",
+    "Theorems/Continuous Function with Infinite Limits is Uniformly Continuous.md",
+    "Concepts/Uniform Continuity on R.md",
+    "Theorems/Nested Interval Theorem.md",
+    "Theorems/Intermediate Value Theorem.md",
+    "Template definition.md",
+    "Concepts/Continuity on R.md",
+    "Theorems/Extreme Value Theorem.md",
+    "Concepts/Cauchy sequence.md",
+    "Concepts/Constructions of R.md",
+    "Concepts/Category.md",
+    "Theorems/Uniform Continuity on Intervals.md",
+    "Notes/Notes for Probability Theory.md",
+    "Pasted image 20240310160913.png",
+    "preamble.sty.md",
+    "obsidian.desktop",
+    "Concepts",
+    "Theorems",
+    "Space.md",
+    "Untitled.canvas",
+    "Notes",
+    "Matematik/Lineær Algebra.md",
+    "3.1 Kontinuitet.md",
+    "Pasted image 20231210005350.png",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Pasted image 20240229154610.png",
+    "Pasted image 20240122125636.png",
+    "Pasted image 20231211235910.png",
+    "Pasted image 20231210005436.png",
+    "Français",
+    "Pasted image 20231210005509.png",
+    "Random",
+    "Matematik",
+    "Random/Pasted image 20231031223058.png",
+    "Random/Pasted image 20231203155449.png",
+    "Random/Pasted image 20231202172444.png"
+  ]
+}
