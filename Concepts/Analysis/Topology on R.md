@@ -7,6 +7,11 @@
 
 ### Theory
 
+
+
+
+
+
 **Definition.** An *open interval* 
 
 **Definition.**  A point $x\in \mathbb R^n$ is a *closure point* for a set $A \subseteq \mathbb R^n$ if every open ball $B_\epsilon(x)$ around $x$ contains at least one point from $A$ i.e. 
