@@ -34,17 +34,19 @@
 
 **Definition.** [[Differentiability on R]] 
 
-
-
 ## Techniques
 
 ### General
 
 **Technique.** It's very often easier to show that a construction $x=y$ by proving that $x\geq y$ and $x\leq y$.
 
-### Triangle inequality
-
 **Technique.** It's often useful to play around with quantities in the triangle inequality.
+
+### Limits
+
+**Technique.** Try dividing limits into their single-limits to exploit certain properties. 
+
+See for example the proof that the [[Derivative at Maximum is Zero|derivative at maximum is zero]].
 
 ### Uniform continuity
 

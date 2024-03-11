@@ -8,6 +8,12 @@
 
 ### Theory
 
+**Definition.** A *right limit* $R$ of $f(x)$ as $x$ goes to $a^+$ is defined as
+$$\forall \epsilon > 0~\exists \delta > 0: ~~~ d(f(x),R) < \epsilon~~~\forall x \in A ~~\mathrm{with}~~0 < x - a < \delta.$$
+**Definition.** Likewise a *left limit* $L$ of $f(x)$ as $x$ goes to $a^-$ is defined as
+$$\forall \epsilon > 0~\exists \delta > 0: ~~~ d(f(x),L) < \epsilon~~~\forall x \in A ~~\mathrm{with}~~0< a-x < \delta.$$
+
+
 **Theorem.** [[Limit ]]
 
 **Corollary.** Let $A \subseteq \mathbb R^n$ and let ${} a\in \bar A - A$ be a limit point of $A$.

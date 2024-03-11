@@ -1,4 +1,4 @@
-**References.**
+**References.** #category-theory 
 
 > [!INFO] Definition
 > A *category* $\mathscr C$ consists of the following data:

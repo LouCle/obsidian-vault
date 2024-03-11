@@ -5,6 +5,8 @@
 > or alternatively $$\Delta f=c\Delta x+\epsilon(\Delta x)\Delta x$$
 > with an epsilon-function $\epsilon$.
 > 
+> The function $f$ is likewise said to be *differentiable in $I$* if it is differentiable in every point of $I$.
+> 
 > 
 ### Theory
 
@@ -18,9 +20,15 @@
 Alternatively, we can write the above as $$(f^{-1})'(y)=\frac{1}{f'(f^{-1}(y))}$$
 Hence we can think of the derivative of $f^{-1}$ has the composition $g\circ f' \circ f^{-1}$ with $g$ as the reciprocal function. So if $f'$ is differentiable, then $(f^{-1})'$ is a composition of three differentiable functions, is therefore itself differentiable by the chain rule.
 
-**Lemma.** Let $f: I \to \mathbb R$ be defined on an interval $I$. Assume that $a$ is an [[Topology on R|interior point]] in $I$ and that $$f(x)\leq f(a)~~~~\forall x \in I$$If $f$ is differentiable in $a$, then $f'(a) = 0$.
+**Lemma (Derivative at Maximum is Zero).** Let $f: I \to \mathbb R$ be defined on an interval $I$. Assume that $a$ is an [[Topology on R|interior point]] in $I$ and that $$f(x)\leq f(a)~~~~\forall x \in I$$If $f$ is differentiable in $a$, then $f'(a) = 0$.
 
 *Proof.* See [[Derivative at Maximum is Zero]].
+
+Since the maximum of $-f$ is the minimum of $f$, we know that the above lemma goes for minimum as well.
+
+**Theorem (Rolle's Theorem).** Let $f : [a,b] \to \mathbb R$ be a map continuous on $[a,b]$ and differentiable on $(a,b)$, then if $f(a)=f(b)=0$, then there exists a $\xi \in (a,b)$ with $f'(\xi)=0$.
+
+*Proof.* See [[Rolle's Theorem]].
 
 **Theorem (Mean value).** 
 

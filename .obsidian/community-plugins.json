@@ -4,5 +4,7 @@
   "math-in-callout",
   "mathlinks",
   "obsidian-tikzjax",
-  "obsidian-git"
+  "obsidian-git",
+  "callout-integrator",
+  "3d-graph-new"
 ]
