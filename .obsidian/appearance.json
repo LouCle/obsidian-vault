@@ -4,5 +4,8 @@
   "textFontFamily": "Inter,Cambria",
   "cssTheme": "Material Gruvbox",
   "theme": "obsidian",
-  "interfaceFontFamily": "American Typewriter"
+  "interfaceFontFamily": "American Typewriter",
+  "enabledCssSnippets": [
+    "test"
+  ]
 }

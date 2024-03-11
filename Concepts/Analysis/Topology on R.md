@@ -9,7 +9,7 @@
 
 **Definition.** An *open interval* is an interval of the sort $(a,b)$.
 
-**Definition.** a *closed set* $S$ on $\mathbb R$ has that $S^c$ is an open ball.
+**Definition.** A *closed set* $S$ on $\mathbb R$ has that $S^c$ is an open ball.
 
 The kinds of intervals that are closed on $\mathbb R$ are $[a,b]$, $(-\infty, a]$ and $[a,\infty)$. There are of course plenty of closed sets which are not intervals.
 

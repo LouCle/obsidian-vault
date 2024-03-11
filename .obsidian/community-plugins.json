@@ -1,10 +1,8 @@
 [
+  "obsidian-tikzjax",
+  "callout-integrator",
+  "math-in-callout",
   "obsidian-latex",
   "inline-math",
-  "math-in-callout",
-  "mathlinks",
-  "obsidian-tikzjax",
-  "obsidian-git",
-  "callout-integrator",
-  "3d-graph-new"
+  "obsidian-rollover-daily-todos"
 ]
