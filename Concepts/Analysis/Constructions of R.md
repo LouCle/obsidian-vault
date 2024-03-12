@@ -2,9 +2,8 @@
 
 > [!INFO] Axiomatic definition
 > 
->The real numbers $\mathbb R$ is the unique (up to isomorphism), complete totally ordered field with the least upper bound property.
+>The real numbers $\mathbb R$ is a [[Metric space|complete]] [[relation|totally ordered]] [[Field|field]] $(\mathbb R,\, \leq,~ d)$ with the least upper bound property. A *real number* is an element of the field $\mathbb R$.
 > 
-
 
 ## Constructions
 

@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Algebra/Vector space.md",
+                "file": "Concepts/Category Theory/Tensor product on Vect.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Algebra/Vector space.md",
+                "file": "Concepts/Category Theory/Tensor product on Vect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Algebra/Vector space.md",
+                "file": "Concepts/Category Theory/Tensor product on Vect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Algebra/Vector space.md"
+                "file": "Concepts/Category Theory/Tensor product on Vect.md"
               }
             }
           }
@@ -226,35 +226,35 @@
   },
   "active": "913c51b82ce01282",
   "lastOpenFiles": [
+    "Concepts/Category Theory/Category.md",
+    "Concepts/Analysis/Maps.md",
+    "Concepts/Analysis/Limit.md",
+    "Concepts/Analysis/Differentiability on R.md",
+    "Concepts/Analysis/Continuity on R.md",
+    "Concepts/Analysis/Constructions of R.md",
+    "Concepts/Algebra/Vector space.md",
+    "Theorems/Algebra/Equivalence of Vector Space Definitions.md",
+    "Concepts/Analysis/Metric space.md",
+    "Concepts/Analysis/Taylor series in R.md",
+    "Theorems/Analysis/Mean Value Theorem.md",
     "Concepts/Algebra/Ring.md",
     "Concepts/Algebra/Field.md",
     "Concepts/Algebra/Group.md",
     "Concepts/Algebra/Linear map.md",
     "Concepts/Algebra/Monoid.md",
-    "Concepts/Algebra/Vector space.md",
     "Theorems/Analysis/Uniform Continuity on Intervals.md",
-    "Theorems/Algebra/Equivalence of Vector Space Definitions.md",
     "Theorems/Algebra",
     "Templates/Template commutative diagram.md",
     "Templates",
-    "Concepts/Analysis/Taylor series in R.md",
     "Concepts/Algebra",
-    "Concepts/Analysis/Metric space.md",
-    "Concepts/Analysis/Maps.md",
     "Concepts/Analysis/Uniform Continuity on R.md",
-    "Concepts/Analysis/Limit.md",
     "Daily Notes/12-03-24.md",
-    "Concepts/Analysis/Differentiability on R.md",
-    "Concepts/Analysis/Constructions of R.md",
     "Daily Notes/11-03-24.md",
     "Daily Notes/10-03-24.md",
     "Template daily note.md",
     "Concepts/Analysis/Topology on R.md",
     "Theorems/Analysis/Rolle's Theorem.md",
     "Theorems/Analysis/Image in Closed Set S implies Limit in S.md",
-    "Theorems/Category Theory/Tensor Product is a Functor.md",
-    "Concepts/Category Theory/Tensor product on Vect.md",
-    "Concepts/Category Theory/Universal property.md",
     "Pasted image 20240311232732.png",
     "Daily Notes",
     "Theorems/Category Theory",

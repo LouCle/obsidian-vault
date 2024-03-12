@@ -1,8 +1,0 @@
-**References.**
-
-> [!INFO] Definition
-> 
-> 
-> 
-
-### Examples
