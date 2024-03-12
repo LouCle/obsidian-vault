@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template definition.md",
+                "file": "Templates/Template definition.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Analysis/Differentiability on R.md",
+                "file": "Concepts/Algebra/Vector space.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5086555480957
+    "width": 258.5086555480957
   },
   "right": {
     "id": "d3ba5e715477b134",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Analysis/Differentiability on R.md",
+                "file": "Concepts/Algebra/Vector space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Analysis/Differentiability on R.md",
+                "file": "Concepts/Algebra/Vector space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Analysis/Differentiability on R.md"
+                "file": "Concepts/Algebra/Vector space.md"
               }
             }
           }
@@ -220,39 +220,43 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "913c51b82ce01282",
   "lastOpenFiles": [
-    "Concepts/Analysis/Constructions of R.md",
+    "Concepts/Algebra/Ring.md",
+    "Concepts/Algebra/Field.md",
+    "Concepts/Algebra/Group.md",
+    "Concepts/Algebra/Linear map.md",
+    "Concepts/Algebra/Monoid.md",
+    "Concepts/Algebra/Vector space.md",
+    "Theorems/Analysis/Uniform Continuity on Intervals.md",
+    "Theorems/Algebra/Equivalence of Vector Space Definitions.md",
+    "Theorems/Algebra",
+    "Templates/Template commutative diagram.md",
+    "Templates",
+    "Concepts/Analysis/Taylor series in R.md",
+    "Concepts/Algebra",
+    "Concepts/Analysis/Metric space.md",
+    "Concepts/Analysis/Maps.md",
+    "Concepts/Analysis/Uniform Continuity on R.md",
+    "Concepts/Analysis/Limit.md",
     "Daily Notes/12-03-24.md",
+    "Concepts/Analysis/Differentiability on R.md",
+    "Concepts/Analysis/Constructions of R.md",
     "Daily Notes/11-03-24.md",
     "Daily Notes/10-03-24.md",
     "Template daily note.md",
-    "Concepts/Analysis/Differentiability on R.md",
     "Concepts/Analysis/Topology on R.md",
     "Theorems/Analysis/Rolle's Theorem.md",
     "Theorems/Analysis/Image in Closed Set S implies Limit in S.md",
-    "Concepts/Analysis/Taylor series in R.md",
     "Theorems/Category Theory/Tensor Product is a Functor.md",
     "Concepts/Category Theory/Tensor product on Vect.md",
     "Concepts/Category Theory/Universal property.md",
-    "preamble.sty.md",
-    "Notes/Theory of real analysis.md",
-    "Concepts/Analysis/Metric space.md",
     "Pasted image 20240311232732.png",
-    "Concepts/Analysis/Limit.md",
-    "Concepts/Analysis/Maps.md",
-    "Template definition.md",
-    "Concepts/Analysis/Continuity on R.md",
-    "Concepts/Analysis/Uniform Continuity on R.md",
-    "Theorems/Analysis/Intermediate Value Theorem.md",
     "Daily Notes",
-    "Theorems/Analysis/Mean Value Theorem.md",
-    "README.md",
-    "Notes/Assorterede noter til reel anal.md",
-    "Template theorem.md",
     "Theorems/Category Theory",
     "Untitled.canvas",
     "Theorems/Analysis",
@@ -261,9 +265,6 @@
     "Concepts/Analysis",
     "Pasted image 20240310160913.png",
     "obsidian.desktop",
-    "Concepts",
-    "Theorems",
-    "Notes",
     "Pasted image 20231210005350.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

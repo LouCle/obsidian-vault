@@ -14,6 +14,4 @@ $$\forall \epsilon > 0~\exists \delta > 0: ~~~ d(f(x),R) < \epsilon~~~\forall x 
 $$\forall \epsilon > 0~\exists \delta > 0: ~~~ d(f(x),L) < \epsilon~~~\forall x \in A ~~\mathrm{with}~~0< a-x < \delta.$$
 
 
-**Theorem.** [[Limit ]]
-
 **Corollary.** Let $A \subseteq \mathbb R^n$ and let ${} a\in \bar A - A$ be a limit point of $A$.

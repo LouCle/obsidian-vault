@@ -13,4 +13,8 @@ The particular way in which $P_n$ approximates the function, is that the $k$-th 
 $$f(b) = P_{n-1}(b) + \frac{f^{(n)}(\xi)}{n!}(b-a)^n$$
 where $P_{n-1}(b)$ is the $n-1$ taylor expansion around $a$.
 
+The remainder term in the above equation is given in the *Lagrange form*.
+
+
+
 ### Examples
