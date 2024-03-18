@@ -5,4 +5,5 @@
 > $$\forall \epsilon>0~\exists N \geq 1 ~\exists n \geq N ~d(a_n,a_m)<\epsilon~$$
 >
 
+
 ### Examples

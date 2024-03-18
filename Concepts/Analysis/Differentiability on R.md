@@ -23,7 +23,7 @@
 **Theorem (Univariate chain rule).** Let $I$ and $J$ be real intervals. Fix $f:I\to J$ and $g:J \to \mathbb R^m$. Let $f$ be differentiable in $t_0\in I$ and $g$ in $f(t_0)\in J$. Then $g\circ f$ is differentiable in $t_0$ given with $$(g\circ f)'(t_0)=g'(f(t_0))f'(t_0)$$
 **Theorem (Differentiation of inverse function).** Let $f:I \subseteq \mathbb R\to \mathbb R$ be a continuous and strictly increasing function. If $f$ is differentiable in the point $x_0\in I$ with $f'(x_0)\neq 0$, then the inverse function $f^{-1}$ is differentiable in $y_0=f(x_0)$ with $$(f^{-1})'(y_0)=\frac{1}{f'(x_0)}$$
 Alternatively, we can write the above as $$(f^{-1})'(y)=\frac{1}{f'(f^{-1}(y))}$$
-Hence we can think of the derivative of $f^{-1}$ has the composition $g\circ f' \circ f^{-1}$ with $g$ as the reciprocal function. So if $f'$ is differentiable, then $(f^{-1})'$ is a composition of three differentiable functions, is therefore itself differentiable by the chain rule.
+Hence we can think of the derivative of $f^{-1}$ has the composition $g\circ f' \circ f^{-1}$ with $g$ as the reciprocal function. So if $f'$ is differentiable, then $(f^{-1})'$ is a composition of three differentiable functions, is therefore itself differentiable by the chain rule. ^525591
 
 **Lemma (Derivative at Maximum is Zero).** Let $f: I \to \mathbb R$ be defined on an interval $I$. Assume that $a$ is an [[Topology on R|interior point]] in $I$ and that $$f(x)\leq f(a)~~~~\forall x \in I$$If $f$ is differentiable in $a$, then $f'(a) = 0$.
 

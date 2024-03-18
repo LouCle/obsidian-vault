@@ -9,7 +9,7 @@
 
 ### Theory
 
-**Definition.** If $a$ is [[Metric space|non-isolated point]] in $A$ then we can equivalently formulate the usual definition as the [[Limit|limit]]
+**Definition.** If $a$ is [[Metric space|non-isolated point]] in $A$ then we can equivalently formulate the usual definition as the [[Limit on R|limit]]
 $$\Delta f \to 0 ~~~ \text{ for } \Delta x \to 0,~a+\Delta x\in A.$$
 With $\Delta x = x-a$ and $\Delta f = f(x) - f(a) = f(a +\Delta x) - f(a)$.
 
@@ -32,6 +32,4 @@ With $\Delta x = x-a$ and $\Delta f = f(x) - f(a) = f(a +\Delta x) - f(a)$.
 **Theorem.** Let $f: (a,b) \to \mathbb R$ be a real function on an open, bounded interval. Then there exists a continuous function $g:[a,b] \to \mathbb R$ with $g(x)=f(x)$ for all $x\in (a,b)$ if and only if $f$ is uniformly continuous.
 
 **Theorem.** [[Nested Interval Theorem]].
-
-See [[Theory of real analysis]] for more relevant theorems.
 ### Examples

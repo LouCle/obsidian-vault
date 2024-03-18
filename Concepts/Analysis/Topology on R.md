@@ -22,4 +22,17 @@ $$B_\epsilon(x)\cap A \neq \emptyset$$ for all $\epsilon>0$.
 
 **Theorem.** A set ${} A$ is equal to its closure $\bar A$ if and only if $A$ is a closed set.
 
+**Theorem.** The supremum $\sup A$ is a closure point for $A\subseteq \mathbb R$.
+
+*Proof.* [[Supremum is in Closure on R]].
+
+**Definition.** A set $X\subseteq \mathbb R$ is connected, if for every $x,y\in X$ with $x<y$, then $[x,y]\subseteq X$.
+
+**Lemma.** For a set ${} X\subseteq \mathbb R {}$ The following two statements are equivalent:
+1. $X$ is bounded and connected.
+2. $X$ is a bounded interval.
+
+*Proof.* [[Bounded and Connected iff Bounded Interval]].
+
 ### Examples
+

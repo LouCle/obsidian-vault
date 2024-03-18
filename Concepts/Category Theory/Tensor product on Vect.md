@@ -20,6 +20,10 @@
 
 *Proof.* See [[Tensor Product is a Functor]].
 
+**Theorem.** The tensor product is a representing objet for $\mathrm{Bilin}(V,W,-)$.
+
+*Proof.* See [[Tensor Product is Representing Object of Bilin]].
+
 **Theorem.** The tensor product is associative i.e. $U \otimes (V\otimes W) \cong (U\otimes V) \otimes W$.
 
 *Proof.* 
